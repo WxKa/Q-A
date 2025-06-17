@@ -1,6 +1,6 @@
-prompt:
+#### prompt:
   Czy po napisaniu programu programista powinien zgasić światło ?
-response:
+#### response:
 To jedno z fundamentalnych pytań w filozofii IT, zaraz obok "tabulacja czy spacja?". Odpowiedź, jak to w programowaniu bywa, brzmi: **to zależy**.
 
 Przeanalizujmy różne scenariusze:

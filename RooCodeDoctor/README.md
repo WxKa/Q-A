@@ -13,7 +13,3 @@
 * i możemy np. powiedzieć: zapisz do pliku recepty.txt recepty z pliku leczenie.md
    - ponieważ w trybie 'Ask' nie można zapisywać, RooCode grzecznie poprosi, aby przełączył się w tryb 'Code', żeby to zapisał, można się na to ewentualnie zgodzić, ale tryb 'Code' zostaje, więc wracamy do 'Ask'.
 * **DANE SĄ WYSYŁANE NA ZEWNĄTRZ** więc rzeczywiste dane muszą być wcześniej zanonimizowane.
-
-#### Feedback
-
-zachęcam do robienia: forków, Issue lub Discussions.

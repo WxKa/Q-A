@@ -15,4 +15,6 @@
 
 #### Internals
 * ostatnie analizy wykazują, że RooCode jednak nie używa serwera MCP w komunikacji z LLM, czyli AI, ale mimo wszystko może odczytywać wszystkie pliki z tego katalogu i je zapisywać
- 
+* zapytałem się AI, jakim cudem AI może dociągać brakujące pliki:
+   - Proces ten obejmuje podjęcie przez LLM decyzji o odczytaniu pliku, wywołanie narzędzia read_file ze ścieżką pliku, wykonanie żądania przez RooCode (ma zaimplementowane to read_file), a następnie zwrócenie zawartości pliku (lub błędu) do LLM w kolejnej wiadomości użytkownika.
+   - Tworzy to ciągłą pętlę żądanie-odpowiedź, która pozwala LLM zebrać niezbędne informacje z systemu plików.

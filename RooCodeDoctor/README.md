@@ -9,7 +9,10 @@
 * w VSCode klikamy z lewej strony na kangura i na dole mamy prompt,
 * wybieramy tryb 'Ask', co jest istotne aby nie robić tego w trybie 'Orchestrator' albo 'Architect' bo wtedy Roo zacznie pisać jakieś programy i nie będziemy wiedzieli co z tym zrobić,
 * zadajemy pytania do danych, które są w tym katalogu np. podaj listę pacjentów,
-* ostatnie analizy wykazują, że RooCode w trybie 'Ask' i 'Code' jednak nie używa serwera MCP w komunikacji z LLM, czyli AI, ale mimo wszystko może odczytywać wszystkie pliki z tego katalogu i je zapisywać
-* i możemy np. powiedzieć: zapisz do pliku recepty.txt recepty z pliku leczenie.md
+* możemy również powiedzieć: zapisz do pliku recepty.txt recepty z pliku leczenie.md
    - ponieważ w trybie 'Ask' nie można zapisywać, RooCode grzecznie poprosi, aby przełączył się w tryb 'Code', żeby to zapisać, można się na to ewentualnie zgodzić, ale tryb 'Code' zostaje, więc wracamy do 'Ask'.
 * **DANE SĄ WYSYŁANE NA ZEWNĄTRZ** więc rzeczywiste dane muszą być wcześniej zanonimizowane.
+
+#### Internals
+* ostatnie analizy wykazują, że RooCode jednak nie używa serwera MCP w komunikacji z LLM, czyli AI, ale mimo wszystko może odczytywać wszystkie pliki z tego katalogu i je zapisywać
+ 

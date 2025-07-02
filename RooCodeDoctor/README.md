@@ -22,4 +22,4 @@
    - Tworzy to ciągłą pętlę żądanie-odpowiedź, która pozwala LLM zebrać niezbędne informacje z systemu plików.
 * podobnie jest z write_to_file, search_file, list_files, czyli LLM'y mają mechanizmy do pobierania lokalnych plików użytkownia i ich zapisywania lokalnie u użytkownika,
 * żeby być precyzyjnym podaję pełen zestaw tzw: "tool_use": "execute_command", "read_file", "fetch_instructions", "write_to_file", "apply_diff", "search_files", "insert_content", "search_and_replace", "list_files", "list_code_definition_names", "browser_action", "use_mcp_tool", "access_mcp_resource", "ask_followup_question", "attempt_completion", "switch_mode",  "codebase_search", "new_task" na razie bez komentarza,
-* na tej podstawie można stwierdzić, że MCP do niczego nie jest tu potrzebne, a komendy "use_mcp_tool" i "access_mcp_resource" sugerują, że MCP może być gdzieś dospępne w tle jako jakaś opcja,
+* na tej podstawie można stwierdzić, że MCP do niczego nie jest tu potrzebne, a komendy "use_mcp_tool" i "access_mcp_resource" sugerują, że MCP może być gdzieś dostępne w tle jako jakieś uzupełnienie, wersja rozszerzona,

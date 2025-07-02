@@ -14,8 +14,9 @@
 * **DANE SĄ WYSYŁANE NA ZEWNĄTRZ** więc rzeczywiste dane muszą być wcześniej zanonimizowane.
 
 #### Internals
-* ostatnie analizy wykazują, że RooCode jednak nie używa serwera MCP w komunikacji z LLM, czyli AI, ale mimo wszystko może odczytywać wszystkie pliki z tego katalogu i je zapisywać
+* ostatnie analizy wykazują, że RooCode jednak nie używa serwera MCP w komunikacji z LLM, czyli AI, ale mimo wszystko może odczytywać wszystkie pliki z tego katalogu i je zapisywać,
 * zapytałem się AI, jakim cudem AI może dociągać brakujące pliki:
-   - Proces ten obejmuje podjęcie przez LLM decyzji o odczytaniu pliku, wywołanie narzędzia read_file ze ścieżką pliku, wykonanie żądania przez RooCode (ma zaimplementowane to read_file), a następnie zwrócenie zawartości pliku (lub błędu) do LLM w kolejnej wiadomości użytkownika.
+   - Proces ten obejmuje podjęcie przez LLM decyzji o odczytaniu pliku, wywołanie narzędzia read_file ze ścieżką pliku, wykonanie żądania przez RooCode (ma zaimplementowane to read_file), a następnie zwrócenie zawartości pliku (lub błędu) do LLM w kolejnej wiadomości użytkownika,
    - Tworzy to ciągłą pętlę żądanie-odpowiedź, która pozwala LLM zebrać niezbędne informacje z systemu plików.
-* podobnie jest z write_to_file, search_file, list_files, tych funkcji jest kilka i są to podstawowe funkcje dostępu do plików, czyli LLM'y mają tak zwaną wersję 'MCP files only' i dlatego to działa.
+* podobnie jest z write_to_file, search_file, list_files, czyli LLM'y mają mechanizmy do pobierania lokalnych plików użytkownia i ich zapisywania lokalnie u użytkownika,
+* na tej podstawie można stwierdzić, że MCP nie jest do tego w ogóle potrzebne,

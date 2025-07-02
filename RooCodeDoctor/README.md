@@ -2,6 +2,8 @@
 
 * to raczej poradnik niż aplikacja w jaki sposób możemy używać narzędzi dla programistów do zupełnie innych celów np. medycznych
 * na pierwszy ogień RooCode, jak to zainstalować jest tu: https://www.youtube.com/watch?v=_Rs1kmaUlIQ
+* z pewnością da się też to zrobić we wszystkich innych narzędziach: Cline, Aider; półpłatne: Cursor, Windsurf, Continue; płatne: Kilo, Devin, które oferują tryb 'Ask' i 'Code',
+   z tym, że te półpłatne też mają ograniczenia co do używania bardziej zaawansowanych modeli LLM, wymagają opłat czyli tzw. wersji premium, dla snobów to nie lada gratka więc polecam,
 
 #### I co dalej
 

@@ -29,3 +29,4 @@
 
 #### Eureca
 * na podstawie jednego z dialogów z RooCode zostałem kiedyś zapytany, czy nie chciałbym w celu rozwiązania mojego problemu zbudować własnego serwera MCP, wtedy potraktowałem to jako blef, żebym się przestraszył i odpuścił, ale zaraz do tego wrócę. Wygląda na to, że można przy RooCode postawić coś ala MCP server i te funkcje zostaną dołożone do już zarejestrowanych i będziemy mieli taki ekstenszjon, sprawdzimy.
+* i to chyba nie był a zmyła: wygląda na to, że "use_mcp_tool", "access_mcp_resource" służą właśnie do zintegrowania takiego bocznego serwerka MCP,

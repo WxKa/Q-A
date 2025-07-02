@@ -23,4 +23,4 @@
 * podobnie jest z write_to_file, search_file, list_files, czyli LLM'y mają mechanizmy do pobierania lokalnych plików użytkownika i ich zapisywania lokalnie u użytkownika,
 * ale wykonuje się to w oparciu o klienta MCP znajdującego się w LLM,
 * okazuje się że wymienione wyżej funkcje read_file, write_to_file i inne zostały przez RooCode zarejestrowane w kliencie MCP LLM wraz z ich specyfikacją i na tej podstawie LLM wie, do czego one służą,
-* zmyłką jest implementacja tych funkcji po stronie RooCode, który nie wystawia serwera MCP tak jak tego należałoby się spodziewać ale implementuje te funkcje w nasłuchu komunikacji z LLM, czyli idzie na skróty i stąd całe nieporozumienie, w tym momencie to RooCode jest serwerem MCP,
+* zmyłką jest implementacja tych funkcji po stronie RooCode, który nie wystawia serwera MCP tak jak tego należałoby się spodziewać ale implementuje te funkcje w nasłuchu komunikacji z LLM, czyli idzie na skróty i stąd całe nieporozumienie, w tym momencie to RooCode jest jakąś hybrydą z domieszką serwera MCP,

@@ -1,6 +1,6 @@
 #### prompt:
 
-czy LLM ma świadomość realizacji servera MCP, czy jedynie ważny jest protokól tj. klient www rejestruje funkcję w kliencie MCP LLM udając serwer MCP, następnie klient MCP LLM wywołuje zarejestrowaną funkcję w pęli wymiany komunikatów z klientem www i nie ma świadowości w jaki sposób klient www realizuje tą funkcję, następnie klient www odpowiada rezultatem,
+czy LLM ma świadomość realizacji servera MCP, czy jedynie ważny jest protokól tj. klient www rejestruje funkcję w kliencie MCP LLM udając serwer MCP, następnie klient MCP LLM wywołuje zarejestrowaną funkcję w pętli wymiany komunikatów z klientem www i nie ma świadowości w jaki sposób klient www realizuje tą funkcję, następnie klient www odpowiada rezultatem,
 
 #### response:
 

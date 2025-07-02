@@ -20,5 +20,7 @@
 * zapytałem się AI, jakim cudem AI może dociągać brakujące pliki:
    - Proces ten obejmuje podjęcie przez LLM decyzji o odczytaniu pliku, wywołanie narzędzia read_file ze ścieżką pliku, wykonanie żądania przez RooCode (ma zaimplementowane to read_file), a następnie zwrócenie zawartości pliku (lub błędu) do LLM w kolejnej wiadomości użytkownika,
    - Tworzy to ciągłą pętlę żądanie-odpowiedź, która pozwala LLM zebrać niezbędne informacje z systemu plików.
-* podobnie jest z write_to_file, search_file, list_files, czyli LLM'y mają mechanizmy do pobierania lokalnych plików użytkownia i ich zapisywania lokalnie u użytkownika,
-* ale implementowane jest przy pomocy klienta MCP znajdującego się w LLM, okazuje się że wymienione wyżej funkcje read_file, write_to_file i inne zostały przez RooCode zarejestrowane w kliencie MCP LLM wraz z ich specyfikacją i na tej podstawie LLM wie, do czego one służą, zmyłką jest implementacja tych funkcji po stronie RooCode, który nie wystawia servera MCP tak jak tego należałoby się spodziewać ale implementuje te funkcje w nasłuchu komunikacji z LLM, czyli idzie na skróty i stąd całe nieporozumienie,
+* podobnie jest z write_to_file, search_file, list_files, czyli LLM'y mają mechanizmy do pobierania lokalnych plików użytkownika i ich zapisywania lokalnie u użytkownika,
+* ale wykonuje się to w oparciu o klienta MCP znajdującego się w LLM,
+* okazuje się że wymienione wyżej funkcje read_file, write_to_file i inne zostały przez RooCode zarejestrowane w kliencie MCP LLM wraz z ich specyfikacją i na tej podstawie LLM wie, do czego one służą,
+* zmyłką jest implementacja tych funkcji po stronie RooCode, który nie wystawia serwera MCP tak jak tego należałoby się spodziewać ale implementuje te funkcje w nasłuchu komunikacji z LLM, czyli idzie na skróty i stąd całe nieporozumienie, w tym momencie to RooCode jest serwerem MCP,

@@ -1,6 +1,6 @@
 #### prompt:
 
-  co się stanie z zadaniu nadrzędnym, jeśli zadanie nadrzędne (Orchestrator, Architect ...) użyje new_task, czyli wywoła zadanie podrzędne, a to zadanie zakończy się i nie wywoła attempt_completion, w sensie, że zadanie nadrzędne zawsze oczekuje na zakończenie zadania podrzędnego
+  co się stanie w zadaniu nadrzędnym, jeśli zadanie nadrzędne (Orchestrator, Architect ...) użyje new_task, czyli wywoła zadanie podrzędne, a to zadanie zakończy się i nie wywoła attempt_completion, w sensie, że zadanie nadrzędne zawsze oczekuje na zakończenie zadania podrzędnego
   
 #### response:
 

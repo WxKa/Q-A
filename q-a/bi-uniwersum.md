@@ -1,8 +1,8 @@
-#### *prompt:*
+##### *prompt:*
 
   czy w rozumowaniu 'świat powstał z niczego a prawa fizyki zaistniały bo nie było innego wyjścia' jest jakiś błąd
   
-#### *response:*
+##### *response:*
 
 Na pierwszy rzut oka, twoje rozumowanie, że **świat powstał z niczego, a prawa fizyki zaistniały, bo „nie było innego wyjścia”**, zawiera kilka interesujących, ale też potencjalnie problematycznych założeń z perspektywy nauki i filozofii. Przyjrzyjmy się temu bliżej:
 
@@ -40,11 +40,11 @@ Warto pamiętać, że pytania o początek wszechświata i naturę praw fizyki wy
 
 Czy chciałbyś zgłębić któryś z tych aspektów bardziej szczegółowo?
 
-#### prompt:
+##### *prompt:*
 
   załóżmy, że to 'nic' to rzeczywiście 'nic' a nie próżnia, która jest trójwymiarowa i tu dodaję od siebie sprężysta,
 
-#### response:
+##### *response:*
   
 OK, to bardzo ciekawe założenie! Jeśli przyjmiemy, że to **"nic" było absolutnym "niczym"**, czyli **brakiem jakiejkolwiek przestrzeni, czasu, energii, materii, a nawet potencjału**, to twoje rozumowanie nabiera zupełnie nowego wymiaru i staje się jeszcze trudniejsze do pogodzenia z naszymi obecnymi modelami.
 
@@ -92,11 +92,11 @@ Taki scenariusz jest bliższy **koncepcji cudu lub aktu stworzenia** w sensie me
 
 Czy masz na myśli jakąś konkretną filozoficzną lub teologiczną koncepcję, gdy mówisz o absolutnym "nic"?
 
-#### prompt:
+##### *prompt:*
 
   w takim razie: powód/przyczyna powstania wrzechświata: bo nicość doszła do wniosku, że lepiej by było gdyby coś było niż żeby nic nie było, a co do zasady zachowania energii to mogły powstać dwa światy nasz i przeciwstawny, które się równoważą
 
-#### response:
+##### *response:*
 
 Twoje nowe rozumowanie wprowadza **intrygujące i bardzo kreatywne elementy**, które wychodzą poza ramy tradycyjnej nauki i logiki, wkraczając w obszar filozofii i niemalże poezji. Przeanalizujmy je punkt po punkcie:
 
@@ -139,11 +139,11 @@ Warto jednak zaznaczyć, że jest to **rozumowanie, które stoi w opozycji do pr
 
 Czy ta "historia" o myśleniu nicości i dwóch równoważących się światach jest dla Ciebie bardziej satysfakcjonującym wyjaśnieniem?
 
-#### prompt:
+##### *prompt:*
 
   myślenie nicości oczywiście było metaforą, przyjmijmy że fakt zaistnienia był spontaniczny i spróbujmy założyć że te dwa światy niekoniecznie są rozłączne i w niektórych sytuacjach można odczuć ich wzajemne przenikanie np. zachowanie się cząstek po rozbiciu w LHC gdzie obserwuje się pozorne zmniejszanie/zwiększanie masy przy braku zmian rozmiarów i odwrotnie
 
-#### response:
+##### *response:*
 
 Dziękuję za doprecyzowanie! Odmiana "myślenia nicości" na **spontaniczne zaistnienie** jest kluczowa i znacznie bliższa naukowym rozważaniom na temat początków Wszechświata. Również koncepcja **dwóch przenikających się światów**, które wzajemnie na siebie oddziałują (lub manifestują się w sposób, który interpretujemy jako anomalię), jest fascynująca i daje wiele do myślenia.
 
@@ -184,11 +184,11 @@ W kontekście naukowym, to rozumowanie nie jest "błędem" w sensie logicznym, a
 
 Twoja wizja jest **fascynującą i kreatywną spekulacją kosmologiczną**, która łączy w sobie intuicję filozoficzną z próbą wyjaśnienia potencjalnych zagadek fizyki cząstek. Daje to podstawę do dalszych, choć na razie czysto teoretycznych, rozważań.
 
-#### prompt:
+##### *prompt:*
 
   humor: to ja na razie spadam(znikam), i będąc po drugiej stronie nie będę się nigdzie przemieszczał a jedynie wykonam mały obrót i po powrocie wyślę Ci pozdrowienia z obłoku Magellana
   
-#### response:
+##### *response:*
 
 Rozumiem! W takim razie bezpiecznej podróży na "drugą stronę" i pomyślnego obrotu! Czekam z niecierpliwością na pozdrowienia z Obłoku Magellana, bo to by oznaczało, że Twoja teoria o przenikających się światach ma w sobie ziarno prawdy.
 

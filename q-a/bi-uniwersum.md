@@ -1,8 +1,8 @@
-#### <span style="color: brown;">prompt:</span>
+#### *prompt:*
 
   czy w rozumowaniu 'świat powstał z niczego a prawa fizyki zaistniały bo nie było innego wyjścia' jest jakiś błąd
   
-#### <span style="color: brown;">response:</span>
+#### *response:*
 
 Na pierwszy rzut oka, twoje rozumowanie, że **świat powstał z niczego, a prawa fizyki zaistniały, bo „nie było innego wyjścia”**, zawiera kilka interesujących, ale też potencjalnie problematycznych założeń z perspektywy nauki i filozofii. Przyjrzyjmy się temu bliżej:
 

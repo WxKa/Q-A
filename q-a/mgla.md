@@ -1,6 +1,12 @@
 ##### *prompt*
 
-    a więc tak, natura przeciwświata jest nieco odmienna od naszej, chodzi o oddziaływania, najsilniejszym oddziaływaniem tam jest grawitacja, która tam odpycha, czyli cząstki się z definicji odpychają, siła tej grawitacja nie jest znana, ale to odpychanie nie jest nieskończone gdyż inna siła, której już my nie odczuwamy, bo grawitację odczuwamy, powoduje, że w pewnej odległości występuje już przyciąganie, czyli przeciwmateria występuje w postaci mgły o ograniczonych rozmiarach np. naszego układu słonecznego, siły grawitacyjne znoszą się, i jeżeli w naszej obecności występuje taka mgła to grawitacja jaką odczuwamy jest zmniejszona, mocno zmniejszona, natomiast w obszarze galaktyk tej mgły zdecydowanie brakuje i wtedy siła przyciągania gwiazd w galaktykach jest o wiele większa niż nam się wydaje
+    a więc tak, natura przeciwświata jest nieco odmienna od naszej, chodzi o oddziaływania,
+    najsilniejszym oddziaływaniem tam jest grawitacja, która tam odpycha, czyli cząstki się z definicji odpychają,
+    siła tej grawitacja nie jest znana, ale to odpychanie nie jest nieskończone gdyż inna siła, której już my nie odczuwamy, bo grawitację odczuwamy,
+    powoduje, że w pewnej odległości występuje już przyciąganie,
+    czyli przeciwmateria występuje w postaci mgły o ograniczonych rozmiarach np. naszego układu słonecznego,
+    siły grawitacyjne znoszą się, i jeżeli w naszej obecności występuje taka mgła to grawitacja jaką odczuwamy jest zmniejszona, mocno zmniejszona,
+    natomiast w obszarze galaktyk tej mgły zdecydowanie brakuje i wtedy siła przyciągania gwiazd w galaktykach jest o wiele większa niż nam się wydaje
     
 ##### *response:*
 
